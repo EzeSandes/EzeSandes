@@ -4,6 +4,15 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/EzeSandes?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/eze_sandes?label=People%20following%20me%21&style=social)
+
+---
+
+A computer engineering student and a begginer😄 frontend developer, based in Argentina. I am a computer engenniering student in Universidad Nacional de La Matanza(UNLaM) in Buenos Aires, Argentina. I’m in the third year of my career with 45% of the subjects approved. 
+
+I’ve started learning web development on my own in 2021 and I love it! I consider myself a very responsible person with my works, constantly studying and improving my skills to complement all my projects and I enjoy doing it!
+
+The feeling of knowing that you can do better, of other people's amazing projects that they create, is what constantly motivates me to keep improving to achieve and surpass them.
+
 <!--
 **EzeSandes/EzeSandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
