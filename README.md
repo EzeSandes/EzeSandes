@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/77078541/130372163-f293b99d-2305-493f-8f70-64a05d45e1b2.gif" width="30px">, I am Ezequiel Sandes!
 
+---
+
+![GitHub followers](https://img.shields.io/github/followers/EzeSandes?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/eze_sandes?label=People%20following%20me%21&style=social)
 <!--
 **EzeSandes/EzeSandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
