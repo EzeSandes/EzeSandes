@@ -13,6 +13,8 @@ I’ve started learning web development on my own in 2021 and I love it! I consi
 
 The feeling of knowing that you can do better, of other people's amazing projects that they create, is what constantly motivates me to keep improving to achieve and surpass them.
 
+Check out my portfolio 👉 https://github.com/EzeSandes/portfolio
+
 ---
 
 🧰  Toolbox
