@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/77078541/130372163-f293b99d-2305-493f-8f70-64a05d45e1b2.gif" width="5px" />, I am Ezequiel Sandes!
+### Hi there! I am Ezequiel Sandes!
 
 ---
 
