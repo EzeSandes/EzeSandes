@@ -7,7 +7,7 @@
 
 ---
 
-A computer engineering student and a begginer😄 frontend developer, based in Argentina. I am a computer engenniering student in Universidad Nacional de La Matanza(UNLaM) in Buenos Aires, Argentina. I’m in the third year of my career with 45% of the subjects approved. 
+A computer engineering student and a begginer😄 frontend developer, based in Argentina. I am a computer engenniering student in Universidad Nacional de La Matanza(UNLaM) in Buenos Aires, Argentina. I’m in the third year of my career with 50% of the subjects approved. 
 
 I’ve started learning web development on my own in 2021 and I love it! I consider myself a very responsible person with my works, constantly studying and improving my skills to complement all my projects and I enjoy doing it!
 
