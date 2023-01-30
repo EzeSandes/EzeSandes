@@ -1,5 +1,7 @@
 # Hi there! 👋🏻 I am Ezequiel Sandes!
 
+![](https://komarev.com/ghpvc/?username=EzeSandes)
+
 ```
 "Do it with passion, or don't do it."
 ```
