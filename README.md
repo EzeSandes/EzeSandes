@@ -18,7 +18,7 @@ Check out my portfolio 👉  <pre>Web: https://ezesandes.github.io/portfolio/ <b
 
 ## 🧰 Languages and tools that interested me throughout my learning.
 * HTML
-* CSS
+* CSS / Bootstrap
 * JavaScript / React
 * NodeJS / Express
 * SQL / MongoDB
