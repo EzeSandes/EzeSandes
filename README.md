@@ -21,7 +21,8 @@ Check out my portfolio 👉  <pre>Web: https://ezesandes.github.io/portfolio/ <b
 * CSS / Bootstrap
 * JavaScript / React
 * NodeJS / Express
-* SQL / MongoDB
+* SQL / MS SQL Server
+* MongoDB / Mongoose
 * C / C++
 * Java
 
