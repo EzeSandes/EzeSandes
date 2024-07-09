@@ -31,7 +31,6 @@ Check out my portfolio 👉  <pre>Web: https://ezesandes.github.io/portfolio/ <b
 
 * Portfolio: https://ezesandes.github.io/portfolio/
 * LinkedIn: https://www.linkedin.com/in/jose-sandes/
-* Twitter: https://twitter.com/eze_sandes
 
 <!--
 🧰  Toolbox
